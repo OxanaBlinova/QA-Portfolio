@@ -15,5 +15,17 @@ Each bug report includes:
 - Attachments (if any)
 
 ## Bugs Included
+---
 1. **BUG_001 — Invalid Email Error Message**
 2. **BUG_002 — Login Button Active When Fields Are Empty**
+
+   ---
+
+## 🐞 Bugs Included
+
+1. **BUG_001 — Invalid Email Error Message**  
+   Triggered when submitting an incorrectly formatted email but the error message is missing or incorrect.
+
+2. **BUG_002 — Login Button Active When Fields Are Empty**  
+   Login button becomes active even when Email & Password fields are empty.
+
