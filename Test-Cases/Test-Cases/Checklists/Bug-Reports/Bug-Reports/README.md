@@ -14,11 +14,6 @@ Each bug report includes:
 - Status
 - Attachments (if any)
 
-## Bugs Included
----
-1. **BUG_001 — Invalid Email Error Message**
-2. **BUG_002 — Login Button Active When Fields Are Empty**
-
    ---
 
 ## 🐞 Bugs Included
