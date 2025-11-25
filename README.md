@@ -1,2 +1,1 @@
-# QA-Portfolio
-Manual QA Tester Portfolio
+# 💼 QA Manual & Automation Tester Portfolio
