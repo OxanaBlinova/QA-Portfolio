@@ -2,10 +2,9 @@
 
 This folder contains sample bug reports created as part of manual QA practice.
 
-Each bug report includes:
+Each report includes:
 - Environment
+- Preconditions
 - Steps to reproduce
-- Expected result
-- Actual result
+- Expected and actual results
 - Severity and priority
-
